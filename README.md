@@ -32,10 +32,11 @@ Pomocí jazyka VHDL jsme napsali následující části projektu:
 **Schema:**
 ![image](https://github.com/IlMed98/sencor/assets/167453979/b2267b3b-36cc-419d-b223-ceb20c3bd076)
 
-**Foto**
-![image](https://github.com/IlMed98/sencor/assets/167453979/dd002909-ac6c-42b1-b714-a7c755b7dd07)
+**Foto:**
+- ![image](https://github.com/IlMed98/sencor/assets/167453979/dd002909-ac6c-42b1-b714-a7c755b7dd07)
 
-**Shrnutí** 
-Bohužel se nám nepodařilo úspěšně vypočítat vzdálenost k objektu pomocí našeho zařízení, přestože sedmisegmentový displej ukazoval výsledky "000", ale dosáhli jsme úspěšných výsledků v simulaci na nejvyšší úrovni, což potvrzuje, že to funguje. Chyba je určitě v připojení pinů ultrazvukového senzoru HC-SR04 k desce, nebo v některých nepřesnostech v kódu bin2seg. Přesto jsme s výsledkem spokojeni, protože jsme jako tým získali cenné praktické zkušenosti s návrhem digitálního systému.
-![image](https://github.com/IlMed98/sencor/assets/167453979/0bbfaa2d-1ed0-48ba-b421-1eefe4992e29)
-![image](https://github.com/IlMed98/sencor/assets/167453979/a31e52c3-de03-418a-ad38-462e1d9d6cb3)
+**Shrnutí:** 
+- Bohužel se nám nepodařilo úspěšně vypočítat vzdálenost k objektu pomocí našeho zařízení, přestože sedmisegmentový displej ukazoval výsledky "000", ale dosáhli jsme úspěšných výsledků v simulaci na nejvyšší úrovni, což potvrzuje, že to funguje. Chyba je určitě v připojení pinů ultrazvukového senzoru HC-SR04 k desce, nebo v některých nepřesnostech v kódu bin2seg.
+- Přesto jsme s výsledkem spokojeni, protože jsme jako tým získali cenné praktické zkušenosti s návrhem digitálního systému.
+- ![image](https://github.com/IlMed98/sencor/assets/167453979/0bbfaa2d-1ed0-48ba-b421-1eefe4992e29)
+- ![image](https://github.com/IlMed98/sencor/assets/167453979/a31e52c3-de03-418a-ad38-462e1d9d6cb3)
