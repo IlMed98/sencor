@@ -4,10 +4,11 @@ Popis: Projekt je zaměřen na detekci hluku v okolí budov: Projekt: Návrh a i
  
 
 **Členové týmu:**
-• Illia Medynskyi - odpovědnost za simple_counter, github a prezentace
-• Gleb Dulesov - odpovědnost za clock_enable, bin2seg
-• Anton Patneleev - odpovědnost za toplevel, tb_toplevel
+- Illia Medynskyi - odpovědnost za simple_counter, github a prezentace
+- Gleb Dulesov - odpovědnost za clock_enable, bin2seg
+- Anton Patneleev - odpovědnost za toplevel, tb_toplevel
 
+  
 **Popis hardwarového vybavení:**
 
 Použili jsme následující vybavení:
