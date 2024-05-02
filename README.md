@@ -23,11 +23,11 @@ Nexys A7 je vývojová deska navržená pro vývojáře a studenty, kteří prac
 **Popis softwaru:**
 Pomocí jazyka VHDL jsme napsali následující části projektu:
 
-simple_counter – tento kód implementuje jednoduchý čítač s možností resetování a ukládání hodnoty čítače v závislosti na externích signálech clock (clk), reset (rst), count enable (en) a store (stor).
-clock_enable - tento kód implementuje zařízení pro řízení hodinového signálu. Generuje pulzní signál, který má v první polovině periody hodin hodnotu "1" a v druhé polovině "0".
-bin2seg - tento kód provádí převod číselné hodnoty ve formátu binárního řetězce na výstupní signály pro sedmisegmentový displej a řídí multiplexor tak, aby vybral příslušný výstup displeje v závislosti na aktuální hodnotě.
-toplevel - tento kód je popisem nejvyšší úrovně pro ovládání ultrazvukového snímače a sedmisegmentového displeje v jazyce VHDL.
-tb_toplevel - tento testovací program generuje hodinový signál CLK100MHZ a sekvenci signálů ECHO pro toplevelový modul a po provedení testovacích signálů ukončí simulaci.
+- simple_counter – tento kód implementuje jednoduchý čítač s možností resetování a ukládání hodnoty čítače v závislosti na externích signálech clock (clk), reset (rst), count enable (en) a store (stor).
+- clock_enable - tento kód implementuje zařízení pro řízení hodinového signálu. Generuje pulzní signál, který má v první polovině periody hodin hodnotu "1" a v druhé polovině "0".
+- bin2seg - tento kód provádí převod číselné hodnoty ve formátu binárního řetězce na výstupní signály pro sedmisegmentový displej a řídí multiplexor tak, aby vybral příslušný výstup displeje v závislosti na aktuální hodnotě.
+- toplevel - tento kód je popisem nejvyšší úrovně pro ovládání ultrazvukového snímače a sedmisegmentového displeje v jazyce VHDL.
+- tb_toplevel - tento testovací program generuje hodinový signál CLK100MHZ a sekvenci signálů ECHO pro toplevelový modul a po provedení testovacích signálů ukončí simulaci.
 
 **Schema:**
 ![image](https://github.com/IlMed98/sencor/assets/167453979/b2267b3b-36cc-419d-b223-ceb20c3bd076)
