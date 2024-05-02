@@ -1,6 +1,6 @@
 **Téma projektu**: Inteligentní parkovací systém s ultrazvukovými senzory
 
-Popis: Projekt je zaměřen na detekci hluku v okolí budov: Projekt: Návrh a implementace inteligentního parkovacího systému pomocí VHDL na desce Nexys A7 FPGA. Systém bude využívat několik ultrazvukových senzorů (HS-SR04) připojených ke konektorům Pmod pro detekci přítomnosti a vzdálenosti vozidel v rámci parkovacích míst. Vyvinout algoritmy pro analýzu dat ze snímačů a určení dostupnosti parkovacích míst. Vizualizovat stav obsazenosti parkovacího místa pomocí LED diod a zároveň zobrazovat naměřené vzdálenosti na 7segmentovém displeji.
+Projekt: Návrh a implementace inteligentního parkovacího systému pomocí VHDL na desce Nexys A7 FPGA. Systém bude využívat několik ultrazvukových senzorů (HS-SR04) připojených ke konektorům Pmod pro detekci přítomnosti a vzdálenosti vozidel v rámci parkovacích míst. Vyvinout algoritmy pro analýzu dat ze snímačů a určení dostupnosti parkovacích míst. Vizualizovat stav obsazenosti parkovacího místa pomocí LED diod a zároveň zobrazovat naměřené vzdálenosti na 7segmentovém displeji.
  
 
 **Členové týmu:**
