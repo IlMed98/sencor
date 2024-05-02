@@ -28,3 +28,6 @@ bin2seg - tento kód provádí převod číselné hodnoty ve formátu binárníh
 toplevel - tento kód je popisem nejvyšší úrovně pro ovládání ultrazvukového snímače a sedmisegmentového displeje v jazyce VHDL.
 tb_toplevel - tento testovací program generuje hodinový signál CLK100MHZ a sekvenci signálů ECHO pro toplevelový modul a po provedení testovacích signálů ukončí simulaci.
 
+**Schema:**
+![image](https://github.com/IlMed98/sencor/assets/167453979/b2267b3b-36cc-419d-b223-ceb20c3bd076)
+
